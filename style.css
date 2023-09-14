@@ -72,7 +72,6 @@ body{
     position: absolute;
     bottom:-30px;
     text-align: center;
-    
     border-bottom: hsl(28, 10%, 53%) 0.9px solid;
 }
 
@@ -148,5 +147,12 @@ body{
     .container{
         width: 300px;
     }
+    .bars .bar {
+        margin-left: 0px;
+        margin-left: 20px;
     
+    }
+    .bars li{
+        width: 60px;
+    }
 }
