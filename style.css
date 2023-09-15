@@ -71,6 +71,7 @@ body{
     width: 100%;
     position: absolute;
     bottom:-30px;
+    margin-left: 15px;
     text-align: center;
     border-bottom: hsl(28, 10%, 53%) 0.9px solid;
 }
